@@ -1,11 +1,13 @@
-ebook_metadata:
+id: P000113
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཟབ་མོ་སྙིང་ཐིག་གི་གནད་ཐམས་ཅད་བསྡུས་པའི་དོན་ཁྲིད་ལག་ལེན་གསལ་བ་བཞུགས་སོ།།
   authors:
   - མཛད་པ་པོ། བཀྲ་ཤིས་རྒྱ་མཚོ།
-  sku: SHE-RTD-025
   layers:
   - book_title
   - author
+  id: SHE-RTD-025
 web_metadata:
   title:
     en: A Clear Explanation of the Essential Meaning of the Profound Heart Essence
